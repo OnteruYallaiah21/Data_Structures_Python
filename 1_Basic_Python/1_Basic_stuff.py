@@ -46,5 +46,31 @@ print(4%2)#modulas operator which gives remainder
 print(4**3)#power operator
 print(7//3)# floor divison opereator which will give nearset whole number
 print("**Assignmenet Opertaors**")
-assignment1=2;
+assignment1=2;#assigning value to the varible
+print(assignment1);
+assignment1+=2;# this is equals to (assignment1+2)
 print(assignment1)
+assignment1-=2;#(assignment1-2)
+print(assignment1)
+print("like wise all arthamatic operations are being evaluted");
+print("**Comaprision Operators**")
+print("Comaprision equals",2==8);
+print("Comaprision not equal",2!=8);
+print("Comaprision grater then",2>8);
+print("Comaprision grater the oe equals",8>=2);
+print("Comaprision less then ",2<8)
+print("Comaprision less the or equlas to",2<=8);
+
+print("***Logical operators*")
+def logical_conditions():
+    if(2<4&2<7):
+        print("this statement is true");
+    else:
+        print("obsevrve the above logical operator")
+    if(2<1|2<4):
+        print("thois is logic or any one statement is true this will return the true condition")
+    else:
+        print("this is logical OR operator plz observe carefully")
+logical_conditions();
+
+#there are more operators are there but not reaquired this time when situvation comes i will explain
