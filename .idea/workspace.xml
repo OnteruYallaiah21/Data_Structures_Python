@@ -23,6 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/pythonProject" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -37,6 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698376477118</updated>
       <workItem from="1698376479953" duration="600000" />
+      <workItem from="1698820899660" duration="185000" />
     </task>
     <servers />
   </component>
