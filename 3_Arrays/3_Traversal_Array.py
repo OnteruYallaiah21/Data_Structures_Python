@@ -8,3 +8,5 @@ def traversalArry(array):
         print(i)
         
 traversalArry(my_Array1)
+#time complexity is O(n)
+
