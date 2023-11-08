@@ -73,4 +73,8 @@ def logical_conditions():
         print("this is logical OR operator plz observe carefully")
 logical_conditions();
 
+print("this is some idea about te deffernet operators in python and also some operators are still there but we not discussed at this momment");
+print("Welcome to Avinys Solutions.....!!!!!")
+
+
 #there are more operators are there but not reaquired this time when situvation comes i will explain
